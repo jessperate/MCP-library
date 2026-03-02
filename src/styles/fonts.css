@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+/*
+  Serrif VF and Saans are custom AirOps brand fonts.
+  Once font files are available, declare them here:
+
+  @font-face {
+    font-family: 'Serrif VF';
+    src: url('/fonts/SerrifVF.woff2') format('woff2-variations');
+    font-weight: 100 900;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Saans';
+    src: url('/fonts/Saans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Saans';
+    src: url('/fonts/Saans-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+  }
+
+  Until then, DM Serif Display (hero) and Inter (body) serve as fallbacks.
+*/
